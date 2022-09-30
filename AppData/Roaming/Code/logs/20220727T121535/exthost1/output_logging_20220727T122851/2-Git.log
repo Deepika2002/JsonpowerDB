@@ -1,0 +1,10 @@
+[2022-07-27T06:58:51.793Z] Log level: Info
+[2022-07-27T06:58:51.794Z] [info] Validating found git in: C:\Program Files\Git\cmd\git.exe
+[2022-07-27T06:58:51.900Z] [info] Using git 2.30.1.windows.1 from C:\Program Files\Git\cmd\git.exe
+[2022-07-27T06:58:52.532Z] > git rev-parse --show-toplevel [622ms]
+[2022-07-27T06:58:53.032Z] > git rev-parse --git-dir --git-common-dir [496ms]
+[2022-07-27T06:58:53.033Z] [info] Open repository: c:\Users\deepika
+[2022-07-27T06:58:54.191Z] > git show --textconv :Desktop/pygame/helloworld [615ms]
+[2022-07-27T06:58:54.199Z] > git ls-files --stage -- C:\Users\deepika\Desktop\pygame\helloworld [616ms]
+[2022-07-27T06:58:54.267Z] > git check-ignore -v -z --stdin [82ms]
+[2022-07-27T06:59:01.716Z] > git status -z -uall [8679ms]

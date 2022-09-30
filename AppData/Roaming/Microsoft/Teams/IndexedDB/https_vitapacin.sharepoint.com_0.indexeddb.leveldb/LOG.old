@@ -1,0 +1,5 @@
+2022/05/26-14:28:36.408 497c Reusing MANIFEST C:\Users\deepika\AppData\Roaming\Microsoft\Teams\IndexedDB\https_vitapacin.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/26-14:59:52.836 1310 Level-0 table #5: started
+2022/05/26-14:59:52.846 1310 Level-0 table #5: 504248 bytes OK
+2022/05/26-14:59:52.849 1310 Delete type=0 #3
+2022/05/26-14:59:52.850 1310 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

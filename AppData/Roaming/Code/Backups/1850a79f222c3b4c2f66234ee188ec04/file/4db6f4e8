@@ -1,0 +1,10 @@
+file:///c%3A/Users/deepika/Desktop/c%2B%2B/hello_world.cpp {"mtime":1658905756919,"ctime":1658905756919,"size":0,"etag":"394q73se90","orphaned":false,"typeId":""}
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+    cout<<"This is onr sentence."\n;
+    
+}

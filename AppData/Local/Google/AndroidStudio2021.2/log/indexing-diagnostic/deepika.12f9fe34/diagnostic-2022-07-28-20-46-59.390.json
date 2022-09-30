@@ -1,0 +1,1040 @@
+{
+  "appInfo" : {
+    "build" : "212.5712.43.2112.8609683",
+    "buildDate" : "2022-05-18T16:50:54.086Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2022-07-28T15:16:59.3948773Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.12 11.0.12+7-b1504.28-7817840"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Happy Birthday",
+    "times" : {
+      "indexingReason" : "Project roots have changed",
+      "totalUpdatingTime" : 54713353100,
+      "indexingTime" : 36064176900,
+      "contentLoadingTime" : 7454108681,
+      "scanFilesTime" : 18429374400,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-28T15:16:04.6769261Z",
+      "updatingEnd" : "2022-07-28T15:16:59.3908869Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 77,
+      "numberOfScannedFiles" : 347577,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 54128,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 53726
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 142997132200,
+        "total" : 143047268400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 29572220900,
+        "total" : 29573422300
+      },
+      "totalNumberOfFiles" : 53723,
+      "totalFilesSize" : 647425232,
+      "indexingSpeed" : {
+        "totalBytes" : 647425232,
+        "totalTime" : 142997132200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy_Birthday'",
+        "numberOfFiles" : 53721,
+        "totalFilesSize" : 647423662,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 142991110600,
+          "total" : 142997132200
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@73839630' (non-project)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 1570,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6021600,
+          "total" : 142997132200
+        }
+      } ]
+    }, {
+      "fileType" : "Kotlin",
+      "partOfTotalProcessingTime" : {
+        "part" : 47782700,
+        "total" : 143047268400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 490200,
+        "total" : 29573422300
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 1026,
+      "indexingSpeed" : {
+        "totalBytes" : 1026,
+        "totalTime" : 47782700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy_Birthday.app.androidTest'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 677,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 24268800,
+          "total" : 47782700
+        }
+      }, {
+        "providerName" : "Module 'Happy_Birthday.app.unitTest'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 349,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 23513900,
+          "total" : 47782700
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 2353500,
+        "total" : 143047268400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 711200,
+        "total" : 29573422300
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 50292,
+      "indexingSpeed" : {
+        "totalBytes" : 50292,
+        "totalTime" : 2353500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy_Birthday'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 50292,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2353500,
+          "total" : 2353500
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 38490473700,
+        "total" : 67075764400
+      },
+      "totalNumberOfFiles" : 53721,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 646708414,
+      "indexingSpeed" : {
+        "totalBytes" : 646708414,
+        "totalTime" : 38490473700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 14798286100,
+        "total" : 67075764400
+      },
+      "totalNumberOfFiles" : 53723,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 646709984,
+      "indexingSpeed" : {
+        "totalBytes" : 646709984,
+        "totalTime" : 14798286100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 13741753400,
+        "total" : 67075764400
+      },
+      "totalNumberOfFiles" : 53723,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 646709984,
+      "indexingSpeed" : {
+        "totalBytes" : 646709984,
+        "totalTime" : 13741753400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "android.ndk.jni.nativemethodindex",
+      "partOfTotalIndexingTime" : {
+        "part" : 45251200,
+        "total" : 67075764400
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1026,
+      "indexingSpeed" : {
+        "totalBytes" : 1026,
+        "totalTime" : 45251200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'Happy_Birthday'",
+      "numberOfScannedFiles" : 280647,
+      "numberOfSkippedFiles" : 13191,
+      "numberOfFilesForIndexing" : 54124,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 8357215300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2103064400,
+      "timeIndexingWithoutContent" : 13500
+    }, {
+      "providerName" : "Android SDK Android API 32 Platform",
+      "numberOfScannedFiles" : 23197,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1592725100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 54676900,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (project)",
+      "numberOfScannedFiles" : 18289,
+      "numberOfSkippedFiles" : 36,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1365339100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 79482700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "numberOfScannedFiles" : 15787,
+      "numberOfSkippedFiles" : 27,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1003319900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 42434500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10",
+      "numberOfScannedFiles" : 1069,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 302812000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3828200,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: com.google.android.material:material:1.4.0@aar",
+      "numberOfScannedFiles" : 1411,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 272791400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 4182300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.appcompat:appcompat:1.3.0@aar",
+      "numberOfScannedFiles" : 880,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 193891000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2859700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.core:core:1.7.0@aar",
+      "numberOfScannedFiles" : 1022,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 166842300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 4310500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10",
+      "numberOfScannedFiles" : 460,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 149487100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 1872700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@73839630' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 145997500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 116232000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test.espresso:espresso-core:3.4.0@aar",
+      "numberOfScannedFiles" : 745,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 131344400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2407500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: junit:junit:4.13.2",
+      "numberOfScannedFiles" : 578,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 113002500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 1846100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10",
+      "numberOfScannedFiles" : 25,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 107350100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 130100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.main' (debug)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 81425300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 22900,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.main' (main)",
+      "numberOfScannedFiles" : 23,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 79417200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 249000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains:annotations:13.0",
+      "numberOfScannedFiles" : 52,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 78963500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 509000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.transition:transition:1.2.0@aar",
+      "numberOfScannedFiles" : 200,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 60186700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 620800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test:runner:1.4.0@aar",
+      "numberOfScannedFiles" : 338,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 47268900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 978600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: junit:junit:4.12",
+      "numberOfScannedFiles" : 490,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 46342000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 1323100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.recyclerview:recyclerview:1.1.0@aar",
+      "numberOfScannedFiles" : 217,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 36371600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 1331000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.core:core-ktx:1.7.0@aar",
+      "numberOfScannedFiles" : 177,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 32544800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 723400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.viewpager2:viewpager2:1.0.0@aar",
+      "numberOfScannedFiles" : 60,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 26786700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 190800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.annotation:annotation:1.2.0",
+      "numberOfScannedFiles" : 122,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 25780400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 481600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-common:2.3.1",
+      "numberOfScannedFiles" : 39,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 22939700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 177400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar",
+      "numberOfScannedFiles" : 151,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 20312800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 448100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.fragment:fragment:1.3.4@aar",
+      "numberOfScannedFiles" : 193,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 19500700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 740700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.collection:collection:1.1.0",
+      "numberOfScannedFiles" : 29,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 18459500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 4447100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.4",
+      "numberOfScannedFiles" : 88,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 17730100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 434100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.loader:loader:1.0.0@aar",
+      "numberOfScannedFiles" : 32,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 14028500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 594000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.annotation:annotation-experimental:1.1.0@aar",
+      "numberOfScannedFiles" : 15,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 13092700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 66200,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-core:1.3",
+      "numberOfScannedFiles" : 88,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 12529200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 233600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test:monitor:1.4.0@aar",
+      "numberOfScannedFiles" : 110,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 12288500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 298400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10",
+      "numberOfScannedFiles" : 17,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 12168200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 104800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.appcompat:appcompat-resources:1.3.0@aar",
+      "numberOfScannedFiles" : 49,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 9216800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 158800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.activity:activity:1.2.3@aar",
+      "numberOfScannedFiles" : 72,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 8656300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 283800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.savedstate:savedstate:1.1.0@aar",
+      "numberOfScannedFiles" : 18,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 8521600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 68800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app'",
+      "numberOfScannedFiles" : 3,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 7566300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 15100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: com.google.code.findbugs:jsr305:2.0.1",
+      "numberOfScannedFiles" : 65,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 7558000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 170100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.cardview:cardview:1.0.0@aar",
+      "numberOfScannedFiles" : 25,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 7326900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 88000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-library:1.3",
+      "numberOfScannedFiles" : 73,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 7310600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 191700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar",
+      "numberOfScannedFiles" : 47,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 6794400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 156900,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar",
+      "numberOfScannedFiles" : 28,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 6487500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 123800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar",
+      "numberOfScannedFiles" : 15,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 6481900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 71800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar",
+      "numberOfScannedFiles" : 21,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5817900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 75300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test:core:1.4.0@aar",
+      "numberOfScannedFiles" : 43,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5425300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 128400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar",
+      "numberOfScannedFiles" : 13,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5361500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 51500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.viewpager:viewpager:1.0.0@aar",
+      "numberOfScannedFiles" : 31,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5223600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 116700,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar",
+      "numberOfScannedFiles" : 18,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 4369700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 56600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar",
+      "numberOfScannedFiles" : 23,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 3943700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 90200,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar",
+      "numberOfScannedFiles" : 16,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 3504400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 83400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.arch.core:core-runtime:2.0.0@aar",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 3443100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 32100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar",
+      "numberOfScannedFiles" : 22,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2963300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 235500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.documentfile:documentfile:1.0.0@aar",
+      "numberOfScannedFiles" : 13,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2706000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 41400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test.services:storage:1.4.0@aar",
+      "numberOfScannedFiles" : 19,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2683700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 55100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.customview:customview:1.0.0@aar",
+      "numberOfScannedFiles" : 22,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2278100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 85400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2274800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 34800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar",
+      "numberOfScannedFiles" : 15,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2150500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 52300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.arch.core:core-common:2.1.0",
+      "numberOfScannedFiles" : 14,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2072500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 52300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar",
+      "numberOfScannedFiles" : 16,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2028400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 49500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test.ext:junit:1.1.3@aar",
+      "numberOfScannedFiles" : 11,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2011100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 31000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-integration:1.3",
+      "numberOfScannedFiles" : 13,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1888800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 34800,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.interpolator:interpolator:1.0.0@aar",
+      "numberOfScannedFiles" : 11,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1474400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 68100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.print:print:1.0.0@aar",
+      "numberOfScannedFiles" : 11,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1386000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 33300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar",
+      "numberOfScannedFiles" : 15,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1346000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 43100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.arch.core:core-runtime:2.1.0@aar",
+      "numberOfScannedFiles" : 12,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1172100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 52200,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1111000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 17400,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.test.espresso:espresso-idling-resource:3.4.0@aar",
+      "numberOfScannedFiles" : 9,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 998900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 24600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: javax.inject:javax.inject:1",
+      "numberOfScannedFiles" : 13,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 995300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 33100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: com.squareup:javawriter:2.1.1",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 983000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 18000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Library Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar",
+      "numberOfScannedFiles" : 5,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 963800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 34100,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.androidTest'",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 195700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3300,
+      "timeIndexingWithoutContent" : 11100
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.unitTest'",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 114800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 3400,
+      "timeIndexingWithoutContent" : 1800
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.main' (out)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.main' (debug)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@73839630' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Happy_Birthday'",
+      "totalNumberOfIndexedFiles" : 53722,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 36036700275,
+      "contentLoadingTime" : 7452001517,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "get-pip.py",
+        "processingTime" : 565337300,
+        "indexingTime" : 459882200,
+        "contentLoadingTime" : 20587300
+      }, {
+        "fileName" : "__init__.py",
+        "processingTime" : 570369100,
+        "indexingTime" : 79395000,
+        "contentLoadingTime" : 1002800
+      }, {
+        "fileName" : "aline.py",
+        "processingTime" : 580798600,
+        "indexingTime" : 574230500,
+        "contentLoadingTime" : 4623000
+      }, {
+        "fileName" : "framenet.py",
+        "processingTime" : 644325800,
+        "indexingTime" : 630023500,
+        "contentLoadingTime" : 10890300
+      }, {
+        "fileName" : "twitterclient.py",
+        "processingTime" : 574446800,
+        "indexingTime" : 572548700,
+        "contentLoadingTime" : 812700
+      }, {
+        "fileName" : "000003.log",
+        "processingTime" : 643336500,
+        "indexingTime" : 400198300,
+        "contentLoadingTime" : 2586400
+      } ]
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.androidTest'",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 6116135,
+      "contentLoadingTime" : 72001,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    }, {
+      "providerName" : "Module 'Happy_Birthday.app.unitTest'",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 5925888,
+      "contentLoadingTime" : 51537,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@73839630' (non-project)",
+      "totalNumberOfIndexedFiles" : 2,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 3488800,
+      "contentLoadingTime" : 1983626,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}

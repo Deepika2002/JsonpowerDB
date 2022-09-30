@@ -1,0 +1,1 @@
+Moved Permanently. Redirecting to https://cdn.jsdelivr.net/gh/MailOnline/videojs-vast-vpaid@master/bin/videojs_5.vast.vpaid.js

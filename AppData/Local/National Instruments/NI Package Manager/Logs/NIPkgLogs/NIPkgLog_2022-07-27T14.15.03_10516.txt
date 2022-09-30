@@ -1,0 +1,323 @@
+14:15:03.499958 CAPI: nipkg_InitializeW: callerId=NI Update Service, callerVersion=19.0.0.24, currentNipkgCoreVersion=19.0.0.49152, userConfigurationFilePath='<NULL>'
+14:15:03.501953 CAPI: nipkg_OpenRequest: Opening new request
+14:15:03.502950 CAPI: nipkg_OpenRequest: Request (239280695) opened with result of 0
+14:15:03.506939 CLILIB: Transaction Request Type=2
+14:15:03.507936 CAPI: nipkg_WaitUntilRequestCompletes: Waiting for request to complete (239280695)
+14:15:03.507936 CLILIB: RequestOption=1, 'value type = 8, m_count=1, value=0x00000280985F5DAC'
+14:15:03.507936 CLILIB: RequestOption=2, 'value type = 8, m_count=1, value=0x00000280985F5D0C'
+14:15:03.507936 CLILIB: RequestOption=3, 'value type = 8, m_count=1, value=0x00000280985F5D5C'
+14:15:03.507936 CLILIB: RequestOption=4, 'value type = 8, m_count=1, value=0x00000280985F5DFC'
+14:15:03.507936 CLILIB: RequestOption=5, 'value type = 9, m_count=1, value=0x00000280FE051240'
+14:15:03.507936 CLILIB: RequestOption=16, 'value type = 3, m_count=1, value=0'
+14:15:03.512923 FA : ===== API BEGIN OnTransactionBegin  ==========
+14:15:03.513921 FA : About to open database at C:\ProgramData\National Instruments\NI Package Manager\Agents\file\installed.dat
+14:15:03.520902 FA : Done opening database at C:\ProgramData\National Instruments\NI Package Manager\Agents\file\installed.dat
+14:15:03.520902 FA : [ BEGIN == Running 0 custom executes in preall queue in the following order. ]
+14:15:03.521899 FA : [ END == Done running custom executes ]
+14:15:03.521899 FA : ===== API END   OnTransactionBegin  ==========
+14:15:03.521899 WIA: ===== API BEGIN OnTransactionBegin  ==========
+14:15:03.521899 WIA: About to open database at C:\ProgramData\National Instruments\NI Package Manager\Agents\wininst\installed.dat
+14:15:03.524891 WIA: Done opening database at C:\ProgramData\National Instruments\NI Package Manager\Agents\wininst\installed.dat
+14:15:03.524891 WIA: RunCustomExecutes() called to run queue 'preall'. Skipping because there are no custom executes to run.
+14:15:03.524891 WIA: ===== API END   OnTransactionBegin  ==========
+14:15:03.526886 RFA : ===== API BEGIN OnTransactionBegin  ==========
+14:15:03.527883 RFA : About to open database at C:\Program Files\National Instruments\NI Package Manager\Installed\installed.dat
+14:15:03.529878 RFA : Done opening database at C:\Program Files\National Instruments\NI Package Manager\Installed\installed.dat
+14:15:03.529878 RFA : ===== API END   OnTransactionBegin  ==========
+14:15:03.529878 FA : ===== API BEGIN OnTransactionListInstalled  ==========
+14:15:03.530875 FA : Returned information on 3 packages.
+14:15:03.530875 FA : 	package name: 'system-windows-x64' | package version: '20.6.0.49316-0+f164'
+14:15:03.530875 FA : 	package name: 'ni-package-manager-released-feed' | package version: '20.6.0.49316-0+f164'
+14:15:03.530875 FA : 	package name: 'ni-package-manager-upgrader' | package version: '20.6.0.49316-0+f164'
+14:15:03.530875 FA : ===== API END   OnTransactionListInstalled  ==========
+14:15:03.530875 WIA: ===== API BEGIN OnTransactionListInstalled  ==========
+14:15:03.542844 WIA: The legacy product state has not changed since the last time it was harvested to the database. Nothing to do, skipping the legacy code...
+14:15:03.570768 WIA: Returned information on 87 packages.
+14:15:03.570768 WIA: 	package name: 'ni-package-manager-deployment-support' | package version: '20.6.0.49316-0+f164'
+14:15:03.570768 WIA: 	package name: 'ni-package-manager' | package version: '20.6.0.49316-0+f164'
+14:15:03.570768 WIA: 	package name: 'ni-securityupdate-kb67l8lcqw-killbits' | package version: '2.1.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-metauninstaller' | package version: '19.0.0.49156-0+f4'
+14:15:03.570768 WIA: 	package name: 'ni-euladepot' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-mdfsupport' | package version: '19.0.0.49156-0+f4'
+14:15:03.570768 WIA: 	package name: 'ni-logos-xt' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-opcenum' | package version: '5.6.3.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-cvi-openmp' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-labview-2019-runtime-engine-resource' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-labview-2019-realtime-nbfifo-x86' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-python-interface' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-mkl-2018' | package version: '18.0.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-labview-2018-runtime-engine-resource' | package version: '18.6.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-labview-2018-realtime-nbfifo-x86' | package version: '18.0.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-tdms' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-realtime-nbfifo-labview-2017-support' | package version: '17.0.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-msvcrt-2008' | package version: '9.1.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-mkl-2017' | package version: '17.0.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-labview-2017-runtime-engine-resource' | package version: '17.6.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-error-reporting-interface' | package version: '19.0.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-cvi-low-level-driver' | package version: '17.5.0.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-msvcrt-2010' | package version: '10.1.1.49152-0+f0'
+14:15:03.570768 WIA: 	package name: 'ni-msiproperties' | package version: '19.0.0.49156-0+f4'
+14:15:03.570768 WIA: 	package name: 'ni-cds-labview-2019-interoperability-support-x86' | package version: '14.2.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cds-2014-database' | package version: '14.2.0.49251-0+f99'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-analysis' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-tdms' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-usi' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-runtime-realtime' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-opengl' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-internet' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-instrsup' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-datasocket' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-msvcrt-2015' | package version: '14.1.5.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-msdotnet4x' | package version: '4.6.3.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-rpc' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-wsrepl' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-mesa' | package version: '17.1.1.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-auth' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-ssl-support' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-portable-configuration' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-2019-reflector' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-datafinder-desktop-quit-dc' | package version: '18.5.5.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-help-assistant' | package version: '2.2.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-traceengine' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-systemlogging-utils' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-svcloc' | package version: '19.0.0.49153-0+f1'
+14:15:03.571766 WIA: 	package name: 'ni-mstudio-cw3dgraph' | package version: '8.7.5.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-logos' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-error-report-x86' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-activex-container' | package version: '17.1.1.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-metasuite' | package version: '19.0.0.49156-0+f4'
+14:15:03.571766 WIA: 	package name: 'ni-launcher' | package version: '19.0.0.49156-0+f4'
+14:15:03.571766 WIA: 	package name: 'ni-ssl-labview-2019-runtime-engine-x86-support' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-ssl-labview-2018-runtime-engine-x86-support' | package version: '18.0.1.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-ssl-labview-2017-runtime-engine-x86-support' | package version: '17.0.2.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-curl' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-dotnet' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-mdnsresponder' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-labview-system-state-publisher' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-deployment-framework-x86' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-networkstreams' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-network-variable' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-usi-dc-eng' | package version: '18.5.5.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-cvi-activex' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-datasocket' | package version: '19.0.0.49152-0+f0'
+14:15:03.571766 WIA: 	package name: 'ni-update-service' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-license-manager' | package version: '4.4.0.49154-0+f2'
+14:15:03.572763 WIA: 	package name: 'ni-cds-2014-shared-files' | package version: '14.2.0.49241-0+f89'
+14:15:03.572763 WIA: 	package name: 'ni-sysapi' | package version: '19.0.0.49154-0+f2'
+14:15:03.572763 WIA: 	package name: 'ni-lv-web-server-labview-2019-runtime-engine-x86-support' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-lv-web-server-labview-2018-runtime-engine-x86-support' | package version: '18.0.1.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-lv-web-server-labview-2017-runtime-engine-x86-support' | package version: '17.0.2.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-cds-2014-educational-license' | package version: '14.2.0.49246-0+f94'
+14:15:03.572763 WIA: 	package name: 'ni-remote-configuration' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-networkdiscoverysvc' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-labview-2019-runtime-engine-x86' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-labview-2018-runtime-engine-x86' | package version: '18.6.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-labview-2017-runtime-engine-x86' | package version: '17.6.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-cvi-runtime-core' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-syscfg-runtime' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-cvi-rte' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-example-finder-x86' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-cvi-runtime-engine' | package version: '19.0.0.49152-0+f0'
+14:15:03.572763 WIA: 	package name: 'ni-cds-2014-core' | package version: '14.2.0.49240-0+f88'
+14:15:03.572763 WIA: 	package name: 'ni-cds-2014-educational' | package version: '14.2.0.49243-0+f91'
+14:15:03.572763 WIA: ===== API END   OnTransactionListInstalled  ==========
+14:15:03.574758 RFA : ===== API BEGIN OnTransactionListInstalled  ==========
+14:15:03.574758 RFA : Returned information on 0 packages.
+14:15:03.574758 RFA : ===== API END   OnTransactionListInstalled  ==========
+14:15:03.574758 FA : ===== API BEGIN OnTransactionEnd  ==========
+14:15:03.574758 FA : [ BEGIN == Running 0 custom executes in postall queue in the following order. ]
+14:15:03.574758 FA : [ END == Done running custom executes ]
+14:15:03.574758 FA : About to close database
+14:15:03.575755 FA : Done closing database
+14:15:03.575755 FA : ===== API END   OnTransactionEnd  ==========
+14:15:03.575755 WIA: ===== API BEGIN OnTransactionEnd  ==========
+14:15:03.575755 WIA: RunCustomExecutes() called to run queue 'postall'. Skipping because there are no custom executes to run.
+14:15:03.575755 WIA: About to close database
+14:15:03.576753 WIA: Done closing database
+14:15:03.576753 WIA: ===== API END   OnTransactionEnd  ==========
+14:15:03.576753 RFA : ===== API BEGIN OnTransactionEnd  ==========
+14:15:03.576753 RFA : About to close database
+14:15:03.577750 RFA : Done closing database
+14:15:03.577750 RFA : ===== API END   OnTransactionEnd  ==========
+14:15:03.594704 CAPI: nipkg_WaitUntilRequestCompletes: Request (239280695) completed with result of 0
+14:15:03.594704 CAPI: nipkg_CloseRequest: Closing request (239280695)
+14:15:03.594704 CAPI: nipkg_CloseRequest: Request (239280695) closed with result of 0.
+14:15:03.601636 CAPI: nipkg_Finalize: Starting to free client library singletons.
+14:15:03.601636 CAPI: nipkg_Finalize: Client library singletons have been freed.
+14:16:05.562208 CAPI: nipkg_InitializeW: callerId=NI Update Service, callerVersion=19.0.0.24, currentNipkgCoreVersion=19.0.0.49152, userConfigurationFilePath='<NULL>'
+14:16:05.563245 CAPI: nipkg_OpenRequest: Opening new request
+14:16:05.563245 CAPI: nipkg_OpenRequest: Request (403217197) opened with result of 0
+14:16:05.563245 CAPI: nipkg_WaitUntilRequestCompletes: Waiting for request to complete (403217197)
+14:16:05.563245 CLILIB: Transaction Request Type=10
+14:16:05.563245 CLILIB: RequestOption=1, 'value type = 8, m_count=1, value=0x00000280985F5EEC'
+14:16:05.563245 CLILIB: RequestOption=2, 'value type = 8, m_count=1, value=0x00000280985F5E4C'
+14:16:05.563245 CLILIB: RequestOption=3, 'value type = 8, m_count=1, value=0x00000280985F5E9C'
+14:16:05.563245 CLILIB: RequestOption=4, 'value type = 8, m_count=1, value=0x00000280985F5F3C'
+14:16:05.563245 CLILIB: RequestOption=5, 'value type = 9, m_count=1, value=0x00000280FE051228'
+14:16:05.563245 CLILIB: RequestOption=16, 'value type = 3, m_count=1, value=0'
+14:16:05.570188 CAPI: nipkg_WaitUntilRequestCompletes: Request (403217197) completed with result of 0
+14:16:05.570188 CAPI: nipkg_CloseRequest: Closing request (403217197)
+14:16:05.570188 CAPI: nipkg_CloseRequest: Request (403217197) closed with result of 0.
+14:16:05.570188 CAPI: nipkg_Finalize: Starting to free client library singletons.
+14:16:05.570188 CAPI: nipkg_Finalize: Client library singletons have been freed.
+14:16:05.582154 CAPI: nipkg_InitializeW: callerId=NI Update Service, callerVersion=19.0.0.24, currentNipkgCoreVersion=19.0.0.49152, userConfigurationFilePath='<NULL>'
+14:16:05.582154 CAPI: nipkg_OpenRequest: Opening new request
+14:16:05.582154 CAPI: nipkg_OpenRequest: Request (3430760964) opened with result of 0
+14:16:05.583151 CAPI: nipkg_WaitUntilRequestCompletes: Waiting for request to complete (3430760964)
+14:16:05.583151 CLILIB: Transaction Request Type=15
+14:16:05.583151 CLILIB: RequestOption=1, 'value type = 8, m_count=1, value=0x0000028098589A9C'
+14:16:05.583151 CLILIB: RequestOption=2, 'value type = 8, m_count=1, value=0x00000280985F5F8C'
+14:16:05.583151 CLILIB: RequestOption=3, 'value type = 8, m_count=1, value=0x0000028098589A4C'
+14:16:05.583151 CLILIB: RequestOption=4, 'value type = 8, m_count=1, value=0x0000028098589AEC'
+14:16:05.583151 CLILIB: RequestOption=5, 'value type = 9, m_count=1, value=0x00000280FE051218'
+14:16:05.583151 CLILIB: RequestOption=16, 'value type = 3, m_count=1, value=0'
+14:16:05.583151 CLILIB: RequestOption=24, 'value type = 7, m_count=1, value='
+14:16:21.748296 CAPI: nipkg_WaitUntilRequestCompletes: Request (3430760964) completed with result of 0
+14:16:21.749294 CAPI: nipkg_CloseRequest: Closing request (3430760964)
+14:16:21.749294 CAPI: nipkg_CloseRequest: Request (3430760964) closed with result of 0.
+14:16:21.749294 CAPI: nipkg_OpenRequest: Opening new request
+14:16:21.749294 CAPI: nipkg_OpenRequest: Request (726799900) opened with result of 0
+14:16:21.750315 CAPI: nipkg_WaitUntilRequestCompletes: Waiting for request to complete (726799900)
+14:16:21.750315 CLILIB: Transaction Request Type=3
+14:16:21.750315 CLILIB: RequestOption=1, 'value type = 8, m_count=1, value=0x000002809856371C'
+14:16:21.750315 CLILIB: RequestOption=2, 'value type = 8, m_count=1, value=0x0000028098589B3C'
+14:16:21.751298 CLILIB: RequestOption=3, 'value type = 8, m_count=1, value=0x0000028098589B8C'
+14:16:21.751298 CLILIB: RequestOption=4, 'value type = 8, m_count=1, value=0x000002809856385C'
+14:16:21.751298 CLILIB: RequestOption=5, 'value type = 9, m_count=1, value=0x00000280FE051210'
+14:16:21.751298 CLILIB: RequestOption=14, 'value type = 10, m_count=1, value=ni-cds-2014-educational-14-2-released-critical'
+14:16:21.751298 CLILIB: RequestOption=16, 'value type = 3, m_count=1, value=0'
+14:16:21.776566 FA : ===== API BEGIN OnTransactionBegin  ==========
+14:16:21.777565 FA : About to open database at C:\ProgramData\National Instruments\NI Package Manager\Agents\file\installed.dat
+14:16:21.780095 FA : Done opening database at C:\ProgramData\National Instruments\NI Package Manager\Agents\file\installed.dat
+14:16:21.780095 FA : [ BEGIN == Running 0 custom executes in preall queue in the following order. ]
+14:16:21.780095 FA : [ END == Done running custom executes ]
+14:16:21.780095 FA : ===== API END   OnTransactionBegin  ==========
+14:16:21.780095 WIA: ===== API BEGIN OnTransactionBegin  ==========
+14:16:21.780095 WIA: About to open database at C:\ProgramData\National Instruments\NI Package Manager\Agents\wininst\installed.dat
+14:16:21.784311 WIA: Done opening database at C:\ProgramData\National Instruments\NI Package Manager\Agents\wininst\installed.dat
+14:16:21.784311 WIA: RunCustomExecutes() called to run queue 'preall'. Skipping because there are no custom executes to run.
+14:16:21.784311 WIA: ===== API END   OnTransactionBegin  ==========
+14:16:21.786090 RFA : ===== API BEGIN OnTransactionBegin  ==========
+14:16:21.786090 RFA : About to open database at C:\Program Files\National Instruments\NI Package Manager\Installed\installed.dat
+14:16:21.789908 RFA : Done opening database at C:\Program Files\National Instruments\NI Package Manager\Installed\installed.dat
+14:16:21.789908 RFA : ===== API END   OnTransactionBegin  ==========
+14:16:21.789908 FA : ===== API BEGIN OnTransactionListInstalled  ==========
+14:16:21.791906 FA : Returned information on 3 packages.
+14:16:21.791906 FA : 	package name: 'system-windows-x64' | package version: '20.6.0.49316-0+f164'
+14:16:21.791906 FA : 	package name: 'ni-package-manager-released-feed' | package version: '20.6.0.49316-0+f164'
+14:16:21.791906 FA : 	package name: 'ni-package-manager-upgrader' | package version: '20.6.0.49316-0+f164'
+14:16:21.791906 FA : ===== API END   OnTransactionListInstalled  ==========
+14:16:21.791906 WIA: ===== API BEGIN OnTransactionListInstalled  ==========
+14:16:21.806517 WIA: The legacy product state has not changed since the last time it was harvested to the database. Nothing to do, skipping the legacy code...
+14:16:21.834130 WIA: Returned information on 87 packages.
+14:16:21.834130 WIA: 	package name: 'ni-package-manager-deployment-support' | package version: '20.6.0.49316-0+f164'
+14:16:21.834130 WIA: 	package name: 'ni-package-manager' | package version: '20.6.0.49316-0+f164'
+14:16:21.834130 WIA: 	package name: 'ni-securityupdate-kb67l8lcqw-killbits' | package version: '2.1.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-metauninstaller' | package version: '19.0.0.49156-0+f4'
+14:16:21.834130 WIA: 	package name: 'ni-euladepot' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-mdfsupport' | package version: '19.0.0.49156-0+f4'
+14:16:21.834130 WIA: 	package name: 'ni-logos-xt' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-opcenum' | package version: '5.6.3.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-openmp' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-labview-2019-runtime-engine-resource' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-labview-2019-realtime-nbfifo-x86' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-python-interface' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-mkl-2018' | package version: '18.0.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-labview-2018-runtime-engine-resource' | package version: '18.6.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-labview-2018-realtime-nbfifo-x86' | package version: '18.0.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-tdms' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-realtime-nbfifo-labview-2017-support' | package version: '17.0.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-msvcrt-2008' | package version: '9.1.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-mkl-2017' | package version: '17.0.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-labview-2017-runtime-engine-resource' | package version: '17.6.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-error-reporting-interface' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-low-level-driver' | package version: '17.5.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-msvcrt-2010' | package version: '10.1.1.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-msiproperties' | package version: '19.0.0.49156-0+f4'
+14:16:21.834130 WIA: 	package name: 'ni-cds-labview-2019-interoperability-support-x86' | package version: '14.2.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cds-2014-database' | package version: '14.2.0.49251-0+f99'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-analysis' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-tdms' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-usi' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-runtime-realtime' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-opengl' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-internet' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-instrsup' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-cvi-datasocket' | package version: '19.0.0.49152-0+f0'
+14:16:21.834130 WIA: 	package name: 'ni-msvcrt-2015' | package version: '14.1.5.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-msdotnet4x' | package version: '4.6.3.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-rpc' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-wsrepl' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-mesa' | package version: '17.1.1.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-auth' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-ssl-support' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-portable-configuration' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-2019-reflector' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-datafinder-desktop-quit-dc' | package version: '18.5.5.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-help-assistant' | package version: '2.2.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-traceengine' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-systemlogging-utils' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-svcloc' | package version: '19.0.0.49153-0+f1'
+14:16:21.835127 WIA: 	package name: 'ni-mstudio-cw3dgraph' | package version: '8.7.5.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-logos' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-error-report-x86' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-activex-container' | package version: '17.1.1.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-metasuite' | package version: '19.0.0.49156-0+f4'
+14:16:21.835127 WIA: 	package name: 'ni-launcher' | package version: '19.0.0.49156-0+f4'
+14:16:21.835127 WIA: 	package name: 'ni-ssl-labview-2019-runtime-engine-x86-support' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-ssl-labview-2018-runtime-engine-x86-support' | package version: '18.0.1.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-ssl-labview-2017-runtime-engine-x86-support' | package version: '17.0.2.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-curl' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-dotnet' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-mdnsresponder' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-labview-system-state-publisher' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-deployment-framework-x86' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-networkstreams' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-network-variable' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-usi-dc-eng' | package version: '18.5.5.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-activex' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-datasocket' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-update-service' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-license-manager' | package version: '4.4.0.49154-0+f2'
+14:16:21.835127 WIA: 	package name: 'ni-cds-2014-shared-files' | package version: '14.2.0.49241-0+f89'
+14:16:21.835127 WIA: 	package name: 'ni-sysapi' | package version: '19.0.0.49154-0+f2'
+14:16:21.835127 WIA: 	package name: 'ni-lv-web-server-labview-2019-runtime-engine-x86-support' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-lv-web-server-labview-2018-runtime-engine-x86-support' | package version: '18.0.1.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-lv-web-server-labview-2017-runtime-engine-x86-support' | package version: '17.0.2.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cds-2014-educational-license' | package version: '14.2.0.49246-0+f94'
+14:16:21.835127 WIA: 	package name: 'ni-remote-configuration' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-networkdiscoverysvc' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-labview-2019-runtime-engine-x86' | package version: '19.0.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-labview-2018-runtime-engine-x86' | package version: '18.6.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-labview-2017-runtime-engine-x86' | package version: '17.6.0.49152-0+f0'
+14:16:21.835127 WIA: 	package name: 'ni-cvi-runtime-core' | package version: '19.0.0.49152-0+f0'
+14:16:21.836124 WIA: 	package name: 'ni-syscfg-runtime' | package version: '19.0.0.49152-0+f0'
+14:16:21.836124 WIA: 	package name: 'ni-cvi-rte' | package version: '19.0.0.49152-0+f0'
+14:16:21.836124 WIA: 	package name: 'ni-example-finder-x86' | package version: '19.0.0.49152-0+f0'
+14:16:21.836124 WIA: 	package name: 'ni-cvi-runtime-engine' | package version: '19.0.0.49152-0+f0'
+14:16:21.836124 WIA: 	package name: 'ni-cds-2014-core' | package version: '14.2.0.49240-0+f88'
+14:16:21.836124 WIA: 	package name: 'ni-cds-2014-educational' | package version: '14.2.0.49243-0+f91'
+14:16:21.836124 WIA: ===== API END   OnTransactionListInstalled  ==========
+14:16:21.837122 RFA : ===== API BEGIN OnTransactionListInstalled  ==========
+14:16:21.838120 RFA : Returned information on 0 packages.
+14:16:21.838120 RFA : ===== API END   OnTransactionListInstalled  ==========
+14:16:21.838120 FA : ===== API BEGIN OnTransactionEnd  ==========
+14:16:21.838120 FA : [ BEGIN == Running 0 custom executes in postall queue in the following order. ]
+14:16:21.838120 FA : [ END == Done running custom executes ]
+14:16:21.838120 FA : About to close database
+14:16:21.839119 FA : Done closing database
+14:16:21.839119 FA : ===== API END   OnTransactionEnd  ==========
+14:16:21.839119 WIA: ===== API BEGIN OnTransactionEnd  ==========
+14:16:21.839119 WIA: RunCustomExecutes() called to run queue 'postall'. Skipping because there are no custom executes to run.
+14:16:21.839119 WIA: About to close database
+14:16:21.840116 WIA: Done closing database
+14:16:21.840116 WIA: ===== API END   OnTransactionEnd  ==========
+14:16:21.840116 RFA : ===== API BEGIN OnTransactionEnd  ==========
+14:16:21.840116 RFA : About to close database
+14:16:21.841113 RFA : Done closing database
+14:16:21.841113 RFA : ===== API END   OnTransactionEnd  ==========
+14:16:21.874024 CAPI: nipkg_WaitUntilRequestCompletes: Request (726799900) completed with result of 0
+14:16:21.874024 CAPI: nipkg_CloseRequest: Closing request (726799900)
+14:16:21.874024 CAPI: nipkg_CloseRequest: Request (726799900) closed with result of 0.
+14:16:21.875026 CAPI: nipkg_Finalize: Starting to free client library singletons.
+14:16:21.878016 CAPI: nipkg_Finalize: Client library singletons have been freed.

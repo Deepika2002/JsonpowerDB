@@ -1,0 +1,2 @@
+(this.webpackJsonpfluidhost=this.webpackJsonpfluidhost||[]).push([[106],{746:function(a){a.exports=JSON.parse('{"strings":{"shareDialogErrorTitle":{"s":"Ezin izan da partekatu","f":0},"shareDialogErrorMessage":{"s":"Ezin gara konektatu zerbitzariarekin. Saiatu berriro geroago.","f":0},"copyDialogErrorTitle":{"s":"Ezin izan da kopiatu","f":0}}}')}}]);
+//# sourceMappingURL=hostDefaultsStrings20.7aa4fe9a.chunk.js.map

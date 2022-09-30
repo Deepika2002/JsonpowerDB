@@ -1,0 +1,1506 @@
+Initializing hardware OpenGLES emulation support
+android_startOpenglesRenderer: gpu info
+GPU #1
+  Make: 10de
+  Model: NVIDIA GeForce GTX 1650
+  Device ID: 1f99
+
+RenderWindow: CMD_INITIALIZE w=1080 h=2340
+FrameBuffer::initialize
+SharedLibrary::open for [vulkan-1.dll]
+
+SharedLibrary::open for [vulkan-1.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [vulkan-1.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [vulkan-1.dll]. File name: [C:\WINDOWS\SYSTEM32\vulkan-1.dll]
+
+Supports id properties, got a vulkan device UUID
+WinEngine: Trying to load opengl32.dll
+
+SharedLibrary::open for [opengl32.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [opengl32.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [opengl32.dll]. File name: [C:\WINDOWS\system32\OpenGL32.dll]
+
+WinEngine: Library loaded at 000001DC127A6CE0
+
+WinEngine: Dispatch initialized
+
+call eglInitialize
+egl: 1 4
+gles version: 3 1
+
+Async readback supported
+attempting to create egl context
+attempting to create egl pbuffer context
+context creation successful
+attempting to make context current
+context-current successful
+host system has enough extensions
+There are sufficient EGLconfigs available
+vk/gles UUIDs match
+GL Vendor Google (NVIDIA Corporation)
+GL Renderer Android Emulator OpenGL ES Translator (NVIDIA GeForce GTX 1650/PCIe/SSE2)
+GL Extensions OpenGL ES 3.0 (4.5.0 NVIDIA 472.19)
+SharedLibrary::open for [libshadertranslator.dll]: not found in map, open for the first time
+
+SharedLibrary::open for [libshadertranslator.dll] (win32): call LoadLibrary
+
+SharedLibrary::open succeeded for [libshadertranslator.dll]. File name: [C:\Users\deepika\AppData\Local\Android\Sdk\emulator\lib64\libshadertranslator.dll]
+
+interop? 1
+glvk interop final: 1
+basic EGL initialization successful
+OpenGL renderer initialized successfully
+CMD_SET_VSYNC_HZ
+Exited a loader RenderThread @000001DC13D96E00
+Sending CMD_REPAINT to reposting thread
+Sending CMD_REPAINT to reposting thread
+Reposting thread dequeueing a CMD_REPAINT
+CMD_REPAINT
+Reposting framebuffer.
+No repost: no last posted color buffer
+Reposting thread dequeueing a CMD_REPAINT
+CMD_REPAINT
+Reposting framebuffer.
+No repost: no last posted color buffer
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=22 ww=378 wh=819 fbw=378 fbh=819 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=22 ww=378 wh=819 fbw=378 fbh=819 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 1
+
+NameSpace::postLoad: 000001DCA4910B10: try to load object 1
+
+NameSpace::postLoad: 000001DCA4910B10: try to load object 2
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 4294967297
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 8
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 3
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 4
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 5
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 6
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 7
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 16
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 20
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 24
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 35
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 38
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 40
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 45
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 31
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 32
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 34
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 36
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 37
+
+NameSpace::postLoad: 000001DCA49110D0: try to load object 39
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 5
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 1
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 2
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 3
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 4
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 5
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 6
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 7
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 8
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 9
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 10
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 11
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 12
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 13
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 14
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 15
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 16
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 17
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 18
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 19
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 20
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 21
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 22
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 23
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 24
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 25
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 26
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 27
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 28
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 29
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 30
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 31
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 32
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 33
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 34
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 35
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 36
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 37
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 38
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 39
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 40
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 41
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 42
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 43
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 44
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 45
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 46
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 47
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 48
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 49
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 50
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 51
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 52
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 53
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 54
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 55
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 56
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 57
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 58
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 59
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 60
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 61
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 62
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 63
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 64
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 65
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 66
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 67
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 68
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 69
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 70
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 71
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 72
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 73
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 74
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 75
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 76
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 77
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 78
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 79
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 80
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 81
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 82
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 83
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 84
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 85
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 86
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 87
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 88
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 89
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 90
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 91
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 92
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 93
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 94
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 95
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 96
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 97
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 98
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 99
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 100
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 101
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 102
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 103
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 104
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 105
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 106
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 107
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 108
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 109
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 110
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 111
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 112
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 113
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 114
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 115
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 116
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 117
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 118
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 119
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 120
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 121
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 122
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 123
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 124
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 125
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 126
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 127
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 128
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 129
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 130
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 260
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 131
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 132
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 133
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 134
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 135
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 136
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 258
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 137
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 138
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 268
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 139
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 140
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 262
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 141
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 142
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 256
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 143
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 144
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 266
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 145
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 146
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 276
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 147
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 148
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 270
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 149
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 150
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 264
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 151
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 152
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 274
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 153
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 154
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 155
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 156
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 278
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 157
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 158
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 272
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 159
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 160
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 161
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 162
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 163
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 164
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 165
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 166
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 167
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 168
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 169
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 170
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 171
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 172
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 173
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 174
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 175
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 176
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 177
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 178
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 179
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 180
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 181
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 182
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 183
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 184
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 185
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 186
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 187
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 188
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 189
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 190
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 191
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 192
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 193
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 194
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 195
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 196
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 197
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 198
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 199
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 200
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 201
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 202
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 203
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 204
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 205
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 206
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 207
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 208
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 209
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 210
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 211
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 212
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 213
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 214
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 215
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 216
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 217
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 218
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 219
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 220
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 221
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 222
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 223
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 224
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 225
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 226
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 227
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 228
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 229
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 230
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 231
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 232
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 233
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 234
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 235
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 236
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 237
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 238
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 239
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 240
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 241
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 242
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 243
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 244
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 245
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 246
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 247
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 248
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 249
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 250
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 251
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 252
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 253
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 254
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 255
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 257
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 259
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 261
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 263
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 265
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 267
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 269
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 271
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 273
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 275
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 277
+
+NameSpace::postLoad: 000001DC21789DA0: try to load object 279
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5590: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5590: finish restore namespace for type 9
+
+NameSpace::postLoad: 000001DCA4911C50: try to load object 4
+
+NameSpace::postLoad: 000001DCA4911C50: try to load object 5
+
+NameSpace::postLoad: 000001DCA4911C50: try to load object 6
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DC2178AC00: try to load object 4294967296
+
+NameSpace::postLoad: 000001DC2178AC00: try to load object 4294967297
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5190: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5190: finish restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA42DA9A0: try to load object 1
+
+NameSpace::postLoad: 000001DCA42DA9A0: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA42DA9A0: try to load object 4294967297
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 5
+
+NameSpace::postLoad: 000001DCA42D9B40: try to load object 1
+
+NameSpace::postLoad: 000001DCA42D9B40: try to load object 2
+
+NameSpace::postLoad: 000001DCA42D9B40: try to load object 3
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED4C90: finish restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA42DB520: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA42DB520: try to load object 4294967297
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5290: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5290: finish restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 1
+
+NameSpace::postLoad: 000001DCA42EB5A0: try to load object 2
+
+NameSpace::postLoad: 000001DCA42EB5A0: try to load object 3
+
+NameSpace::postLoad: 000001DCA42EB5A0: try to load object 5
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 17
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 4294967297
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 10
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 11
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 36
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 37
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 38
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 39
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 40
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 41
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 15
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 16
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 18
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 19
+
+NameSpace::postLoad: 000001DCA42EAD00: try to load object 20
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 5
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 1
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 2
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 3
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 4
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 5
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 6
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 7
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 8
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 9
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 10
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 11
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 12
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 13
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 14
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 15
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 16
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 17
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 18
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 19
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 20
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 21
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 22
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 23
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 24
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 25
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 26
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 27
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 28
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 29
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 30
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 31
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 32
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 33
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 34
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 35
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 36
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 37
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 38
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 39
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 40
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 41
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 42
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 43
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 44
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 45
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 46
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 47
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 48
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 49
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 50
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 51
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 52
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 53
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 54
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 55
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 56
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 57
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 58
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 59
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 60
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 61
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 62
+
+NameSpace::postLoad: 000001DCA42EC6E0: try to load object 63
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5A10: finish restore namespace for type 9
+
+NameSpace::postLoad: 000001DCA42EAE70: try to load object 3
+
+NameSpace::postLoad: 000001DCA42EAE70: try to load object 6
+
+NameSpace::postLoad: 000001DCA42EAE70: try to load object 7
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 1
+
+NameSpace::postLoad: 000001DCA42EB9F0: try to load object 3
+
+NameSpace::postLoad: 000001DCA42EB9F0: try to load object 6
+
+NameSpace::postLoad: 000001DCA42EB9F0: try to load object 7
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 17
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 9
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 16
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 4294967297
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 14
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 15
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 18
+
+NameSpace::postLoad: 000001DCA42EBB60: try to load object 19
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 5
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 1
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 2
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 3
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 4
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 5
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 6
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 7
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 8
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 9
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 10
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 11
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 12
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 13
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 14
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 15
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 16
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 17
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 18
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 19
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 20
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 21
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 22
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 23
+
+NameSpace::postLoad: 000001DCA42EC290: try to load object 24
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED4E90: finish restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA7558740: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA7558740: try to load object 4294967297
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED4A10: finish restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 0
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 1
+
+NameSpace::postLoad: 000001DCA7556070: try to load object 1
+
+NameSpace::postLoad: 000001DCA7556070: try to load object 2
+
+NameSpace::postLoad: 000001DCA7556070: try to load object 3
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 1
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 2
+
+NameSpace::postLoad: 000001DCA75561E0: try to load object 4294967296
+
+NameSpace::postLoad: 000001DCA75561E0: try to load object 1
+
+NameSpace::postLoad: 000001DCA75561E0: try to load object 4294967297
+
+NameSpace::postLoad: 000001DCA75561E0: try to load object 2
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 2
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 3
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 4
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 5
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 1
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 2
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 3
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 4
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 5
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 6
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 7
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 8
+
+NameSpace::postLoad: 000001DCA7557320: try to load object 9
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 5
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 6
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 7
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 8
+
+ShareGroup::ShareGroup: 000001DC20ED5010: start restore namespace for type 9
+
+ShareGroup::ShareGroup: 000001DC20ED5010: finish restore namespace for type 9
+
+Got lasted posted color buffer from snapshot
+Started new RenderThread (total 1) @000001DCA4D7F190
+Started new RenderThread (total 2) @000001DCA4D7F510
+Started new RenderThread (total 3) @000001DCA4D7F270
+Started new RenderThread (total 4) @000001DCA4D7F350
+Started new RenderThread (total 5) @000001DCA4D7FDD0
+Started new RenderThread (total 6) @000001DCA4D80AF0
+Started new RenderThread (total 7) @000001DCA4D7FEB0
+Started new RenderThread (total 8) @000001DCA4D80150
+Started new RenderThread (total 9) @000001DCA4D80BD0
+Started new RenderThread (total 10) @000001DCA4D7F0B0
+Started new RenderThread (total 11) @000001DCA4D80CB0
+Started new RenderThread (total 12) @000001DCA4D7F430
+Started new RenderThread (total 13) @000001DCA4D7F890
+Started new RenderThread (total 14) @000001DCA4D80D90
+Started new RenderThread (total 15) @000001DCA4D7FF90
+Started new RenderThread (total 16) @000001DCA4D7F7B0
+Started new RenderThread (total 17) @000001DCA4D803F0
+Started new RenderThread (total 18) @000001DCA4D80E70
+Started new RenderThread (total 19) @000001DCA4D80A10
+Started new RenderThread (total 20) @000001DCA4D804D0
+Started new RenderThread (total 21) @000001DCA4D80310
+Started new RenderThread (total 22) @000001DCA4D80F50
+Started new RenderThread (total 23) @000001DCA4D80690
+Started new RenderThread (total 24) @000001DCA4D7FB30
+Started new RenderThread (total 25) @000001DCA4D7F5F0
+Loaded RenderThread @000001DCA4D7F190 from snapshot
+Loaded RenderThread @000001DCA4D7F270 from snapshot
+Loaded RenderThread @000001DCA4D7F350 from snapshot
+Loaded RenderThread @000001DCA4D80AF0 from snapshot
+Loaded RenderThread @000001DCA4D7F510 from snapshot
+Loaded RenderThread @000001DCA4D7FDD0 from snapshot
+Loaded RenderThread @000001DCA4D7F0B0 from snapshot
+Loaded RenderThread @000001DCA4D80BD0 from snapshot
+Loaded RenderThread @000001DCA4D7FEB0 from snapshot
+Loaded RenderThread @000001DCA4D80150 from snapshot
+Loaded RenderThread @000001DCA4D80CB0 from snapshot
+Loaded RenderThread @000001DCA4D80D90 from snapshot
+Loaded RenderThread @000001DCA4D7F890 from snapshot
+Loaded RenderThread @000001DCA4D7F430 from snapshot
+Loaded RenderThread @000001DCA4D7FF90 from snapshot
+Loaded RenderThread @000001DCA4D803F0 from snapshot
+Loaded RenderThread @000001DCA4D80E70 from snapshot
+Loaded RenderThread @000001DCA4D80310 from snapshot
+Loaded RenderThread @000001DCA4D80F50 from snapshot
+Loaded RenderThread @000001DCA4D7F5F0 from snapshot
+Sending CMD_REPAINT to reposting thread
+Loaded RenderThread @000001DCA4D7F7B0 from snapshot
+Loaded RenderThread @000001DCA4D80A10 from snapshot
+Loaded RenderThread @000001DCA4D804D0 from snapshot
+Loaded RenderThread @000001DCA4D80690 from snapshot
+Loaded RenderThread @000001DCA4D7FB30 from snapshot
+CMD_SETUP_SUBWINDOW: parent=0000000000000000 wx=20 wy=22 ww=378 wh=819 fbw=378 fbh=819 dpr=1.000000 rotation=0.000000
+Begin setupSubWindow
+Exit setupSubWindow (successful setup)
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: start post load restore namespace for type 9
+
+ShareGroup::postLoadRestore: 000001DC20ED5A10: end post load restore namespace for type 9
+
+Exited a RenderThread @000001DCA4D80CB0
+Exited a RenderThread @000001DCA4D7F430
+Exited a RenderThread @000001DCA4D80A10
+Exited a RenderThread @000001DCA4D7F0B0
+Exited a RenderThread @000001DCA4D803F0
+Exited a RenderThread @000001DCA4D80310
+Exited a RenderThread @000001DCA4D80150
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: start post load restore namespace for type 9
+
+ShareGroup::postLoadRestore: 000001DC20ED4A10: end post load restore namespace for type 9
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 5
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 6
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 7
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 8
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: start post load restore namespace for type 9
+
+ShareGroup::postLoadRestore: 000001DC20ED4E90: end post load restore namespace for type 9
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: end post load restore namespace for type 0
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: end post load restore namespace for type 1
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: end post load restore namespace for type 2
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: end post load restore namespace for type 3
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: end post load restore namespace for type 4
+
+ShareGroup::postLoadRestore: 000001DC20ED5590: start post load restore namespace for type 5
+

@@ -1,0 +1,1651 @@
+{
+  "appInfo" : {
+    "build" : "212.5712.43.2112.8609683",
+    "buildDate" : "2022-05-18T16:50:51.282Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2022-07-23T19:24:21.9652322Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.12 11.0.12+7-b1504.28-7817840"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Happy Birthday",
+    "times" : {
+      "indexingReason" : "Project roots have changed",
+      "totalUpdatingTime" : 286586611900,
+      "indexingTime" : 156563246000,
+      "contentLoadingTime" : 22677522093,
+      "scanFilesTime" : 116567150200,
+      "pushPropertiesTime" : 13384632000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-23T19:19:35.377398Z",
+      "updatingEnd" : "2022-07-23T19:24:21.9642371Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 318840,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 197892,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 197892
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 216418366200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 32708388300,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 73830,
+      "totalFilesSize" : 878197388,
+      "indexingSpeed" : {
+        "totalBytes" : 878197388,
+        "totalTime" : 216418366200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 73696,
+        "totalFilesSize" : 878031157,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 216262827800,
+          "total" : 216418366200
+        }
+      }, {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 130,
+        "totalFilesSize" : 154673,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 152249700,
+          "total" : 216418366200
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 11558,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3288700,
+          "total" : 216418366200
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 140453671100,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 21682562400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 39492,
+      "totalFilesSize" : 422561840,
+      "indexingSpeed" : {
+        "totalBytes" : 422561840,
+        "totalTime" : 140453671100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 39467,
+        "totalFilesSize" : 421307348,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 140234422700,
+          "total" : 140453671100
+        }
+      }, {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 25,
+        "totalFilesSize" : 1254492,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 219248400,
+          "total" : 140453671100
+        }
+      } ]
+    }, {
+      "fileType" : "ObjectiveC",
+      "partOfTotalProcessingTime" : {
+        "part" : 42830833000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8176019200,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 20611,
+      "totalFilesSize" : 149872226,
+      "indexingSpeed" : {
+        "totalBytes" : 149872226,
+        "totalTime" : 42830833000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 20611,
+        "totalFilesSize" : 149872226,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 42830833000,
+          "total" : 42830833000
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 41050871800,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6126534500,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 9741,
+      "totalFilesSize" : 102140819,
+      "indexingSpeed" : {
+        "totalBytes" : 102140819,
+        "totalTime" : 41050871800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 9741,
+        "totalFilesSize" : 102140819,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 41050871800,
+          "total" : 41050871800
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 37094694400,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2814523600,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 1449,
+      "totalFilesSize" : 56626127,
+      "indexingSpeed" : {
+        "totalBytes" : 56626127,
+        "totalTime" : 37094694400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 1449,
+        "totalFilesSize" : 56626127,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 37094694400,
+          "total" : 37094694400
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 34619445200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6102585000,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 9232,
+      "totalFilesSize" : 90455046,
+      "indexingSpeed" : {
+        "totalBytes" : 90455046,
+        "totalTime" : 34619445200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 9214,
+        "totalFilesSize" : 89622881,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 34211036000,
+          "total" : 34619445200
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : 705986,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 376941700,
+          "total" : 34619445200
+        }
+      }, {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 126179,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 31467500,
+          "total" : 34619445200
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 33676297000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2408325800,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 4246,
+      "totalFilesSize" : 26447302,
+      "indexingSpeed" : {
+        "totalBytes" : 26447302,
+        "totalTime" : 33676297000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 4246,
+        "totalFilesSize" : 26447302,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 33676297000,
+          "total" : 33676297000
+        }
+      } ]
+    }, {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 29028410700,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5067047200,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 29786,
+      "totalFilesSize" : 130451493,
+      "indexingSpeed" : {
+        "totalBytes" : 130451493,
+        "totalTime" : 29028410700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 29786,
+        "totalFilesSize" : 130451493,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 29028410700,
+          "total" : 29028410700
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 25291292300,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3093395400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 5214,
+      "totalFilesSize" : 62683547,
+      "indexingSpeed" : {
+        "totalBytes" : 62683547,
+        "totalTime" : 25291292300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 5214,
+        "totalFilesSize" : 62683547,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25291292300,
+          "total" : 25291292300
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 13399789700,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 399835300,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 615,
+      "totalFilesSize" : 14821418,
+      "indexingSpeed" : {
+        "totalBytes" : 14821418,
+        "totalTime" : 13399789700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 609,
+        "totalFilesSize" : 14751960,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 13374426900,
+          "total" : 13399789700
+        }
+      }, {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 69458,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25362800,
+          "total" : 13399789700
+        }
+      } ]
+    }, {
+      "fileType" : "YAML",
+      "partOfTotalProcessingTime" : {
+        "part" : 4391742200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 638984600,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 1374,
+      "totalFilesSize" : 2200774,
+      "indexingSpeed" : {
+        "totalBytes" : 2200774,
+        "totalTime" : 4391742200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 1374,
+        "totalFilesSize" : 2200774,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4391742200,
+          "total" : 4391742200
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 1391882100,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 236473200,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 762,
+      "totalFilesSize" : 986632,
+      "indexingSpeed" : {
+        "totalBytes" : 986632,
+        "totalTime" : 1391882100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 761,
+        "totalFilesSize" : 985445,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1390643700,
+          "total" : 1391882100
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1187,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1238400,
+          "total" : 1391882100
+        }
+      } ]
+    }, {
+      "fileType" : "CMakeLists.txt",
+      "partOfTotalProcessingTime" : {
+        "part" : 728495800,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 131807900,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 493,
+      "totalFilesSize" : 1362855,
+      "indexingSpeed" : {
+        "totalBytes" : 1362855,
+        "totalTime" : 728495800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 493,
+        "totalFilesSize" : 1362855,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 728495800,
+          "total" : 728495800
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 717868100,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 47326200,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 208,
+      "totalFilesSize" : 1573100,
+      "indexingSpeed" : {
+        "totalBytes" : 1573100,
+        "totalTime" : 717868100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 197,
+        "totalFilesSize" : 1570551,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 697555700,
+          "total" : 717868100
+        }
+      }, {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : 2549,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20312400,
+          "total" : 717868100
+        }
+      } ]
+    }, {
+      "fileType" : "PATCH",
+      "partOfTotalProcessingTime" : {
+        "part" : 477625100,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 146494700,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 210,
+      "totalFilesSize" : 3015912,
+      "indexingSpeed" : {
+        "totalBytes" : 3015912,
+        "totalTime" : 477625100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 202,
+        "totalFilesSize" : 3011463,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 474382600,
+          "total" : 477625100
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 4449,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3242500,
+          "total" : 477625100
+        }
+      } ]
+    }, {
+      "fileType" : "Kotlin/Native Def",
+      "partOfTotalProcessingTime" : {
+        "part" : 446473700,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 50515800,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 98,
+      "totalFilesSize" : 367021,
+      "indexingSpeed" : {
+        "totalBytes" : 367021,
+        "totalTime" : 446473700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 98,
+        "totalFilesSize" : 367021,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 446473700,
+          "total" : 446473700
+        }
+      } ]
+    }, {
+      "fileType" : "TOML",
+      "partOfTotalProcessingTime" : {
+        "part" : 435408500,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 370793000,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 127,
+      "totalFilesSize" : 4597,
+      "indexingSpeed" : {
+        "totalBytes" : 4597,
+        "totalTime" : 435408500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 127,
+        "totalFilesSize" : 4597,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 435408500,
+          "total" : 435408500
+        }
+      } ]
+    }, {
+      "fileType" : "EditorConfig",
+      "partOfTotalProcessingTime" : {
+        "part" : 380273900,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 18567100,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 77,
+      "totalFilesSize" : 21511,
+      "indexingSpeed" : {
+        "totalBytes" : 21511,
+        "totalTime" : 380273900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 77,
+        "totalFilesSize" : 21511,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 380273900,
+          "total" : 380273900
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 255256000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 24545400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 70,
+      "totalFilesSize" : 909483,
+      "indexingSpeed" : {
+        "totalBytes" : 909483,
+        "totalTime" : 255256000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 62,
+        "totalFilesSize" : 601845,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 170379300,
+          "total" : 255256000
+        }
+      }, {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 304673,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 81527500,
+          "total" : 255256000
+        }
+      }, {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2965,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3349200,
+          "total" : 255256000
+        }
+      } ]
+    }, {
+      "fileType" : "Android RenderScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 222449000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 23997900,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 35,
+      "totalFilesSize" : 557723,
+      "indexingSpeed" : {
+        "totalBytes" : 557723,
+        "totalTime" : 222449000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 35,
+        "totalFilesSize" : 557723,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 222449000,
+          "total" : 222449000
+        }
+      } ]
+    }, {
+      "fileType" : "RNG Compact",
+      "partOfTotalProcessingTime" : {
+        "part" : 136406200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 27188100,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 113,
+      "totalFilesSize" : 441464,
+      "indexingSpeed" : {
+        "totalBytes" : 441464,
+        "totalTime" : 136406200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+        "numberOfFiles" : 113,
+        "totalFilesSize" : 441464,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 136406200,
+          "total" : 136406200
+        }
+      } ]
+    }, {
+      "fileType" : "NatVis",
+      "partOfTotalProcessingTime" : {
+        "part" : 78066300,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8183500,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : 268230,
+      "indexingSpeed" : {
+        "totalBytes" : 268230,
+        "totalTime" : 78066300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : 268230,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 78066300,
+          "total" : 78066300
+        }
+      } ]
+    }, {
+      "fileType" : "Dictionary",
+      "partOfTotalProcessingTime" : {
+        "part" : 54724900,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4638000,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : 1392628,
+      "indexingSpeed" : {
+        "totalBytes" : 1392628,
+        "totalTime" : 54724900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 1392628,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 54724900,
+          "total" : 54724900
+        }
+      } ]
+    }, {
+      "fileType" : "Perl",
+      "partOfTotalProcessingTime" : {
+        "part" : 43015800,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7221900,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 16,
+      "totalFilesSize" : 166844,
+      "indexingSpeed" : {
+        "totalBytes" : 166844,
+        "totalTime" : 43015800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 16,
+        "totalFilesSize" : 166844,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 43015800,
+          "total" : 43015800
+        }
+      } ]
+    }, {
+      "fileType" : "AIDL",
+      "partOfTotalProcessingTime" : {
+        "part" : 42832000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2026500,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 95150,
+      "indexingSpeed" : {
+        "totalBytes" : 95150,
+        "totalTime" : 42832000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 95150,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 42832000,
+          "total" : 42832000
+        }
+      } ]
+    }, {
+      "fileType" : "C#",
+      "partOfTotalProcessingTime" : {
+        "part" : 35485400,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8346300,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 20,
+      "totalFilesSize" : 39070,
+      "indexingSpeed" : {
+        "totalBytes" : 39070,
+        "totalTime" : 35485400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 20,
+        "totalFilesSize" : 39070,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 35485400,
+          "total" : 35485400
+        }
+      } ]
+    }, {
+      "fileType" : "IDL",
+      "partOfTotalProcessingTime" : {
+        "part" : 22374800,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 10907300,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : 20298,
+      "indexingSpeed" : {
+        "totalBytes" : 20298,
+        "totalTime" : 22374800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : 20298,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 22374800,
+          "total" : 22374800
+        }
+      } ]
+    }, {
+      "fileType" : "Assembly file",
+      "partOfTotalProcessingTime" : {
+        "part" : 20202700,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1404600,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 40645,
+      "indexingSpeed" : {
+        "totalBytes" : 40645,
+        "totalTime" : 20202700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 40645,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20202700,
+          "total" : 20202700
+        }
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 13150600,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2515200,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 3458,
+      "indexingSpeed" : {
+        "totalBytes" : 3458,
+        "totalTime" : 13150600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 3458,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 13150600,
+          "total" : 13150600
+        }
+      } ]
+    }, {
+      "fileType" : "SQL",
+      "partOfTotalProcessingTime" : {
+        "part" : 9509100,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1877600,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 3881,
+      "indexingSpeed" : {
+        "totalBytes" : 3881,
+        "totalTime" : 9509100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 3881,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9509100,
+          "total" : 9509100
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 7472000,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2508500,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : 442,
+      "indexingSpeed" : {
+        "totalBytes" : 442,
+        "totalTime" : 7472000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : 442,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7472000,
+          "total" : 7472000
+        }
+      } ]
+    }, {
+      "fileType" : "ModuleMap",
+      "partOfTotalProcessingTime" : {
+        "part" : 7377800,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 574400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 3810,
+      "indexingSpeed" : {
+        "totalBytes" : 3810,
+        "totalTime" : 7377800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 3810,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7377800,
+          "total" : 7377800
+        }
+      } ]
+    }, {
+      "fileType" : "Haskell",
+      "partOfTotalProcessingTime" : {
+        "part" : 6498200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1797600,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 3714,
+      "indexingSpeed" : {
+        "totalBytes" : 3714,
+        "totalTime" : 6498200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 3714,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 6498200,
+          "total" : 6498200
+        }
+      } ]
+    }, {
+      "fileType" : "Shrinker Config File",
+      "partOfTotalProcessingTime" : {
+        "part" : 5144300,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1382400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 3108,
+      "indexingSpeed" : {
+        "totalBytes" : 3108,
+        "totalTime" : 5144300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 3108,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5144300,
+          "total" : 5144300
+        }
+      } ]
+    }, {
+      "fileType" : "JSP",
+      "partOfTotalProcessingTime" : {
+        "part" : 5032200,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1335400,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 1094,
+      "indexingSpeed" : {
+        "totalBytes" : 1094,
+        "totalTime" : 5032200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 1094,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5032200,
+          "total" : 5032200
+        }
+      } ]
+    }, {
+      "fileType" : "GitExclude file",
+      "partOfTotalProcessingTime" : {
+        "part" : 3795400,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 647000,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 480,
+      "indexingSpeed" : {
+        "totalBytes" : 480,
+        "totalTime" : 3795400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 480,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3795400,
+          "total" : 3795400
+        }
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalProcessingTime" : {
+        "part" : 3368700,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 501900,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 25,
+      "indexingSpeed" : {
+        "totalBytes" : 25,
+        "totalTime" : 3368700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Happy Birthday'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 25,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3368700,
+          "total" : 3368700
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 1286300,
+        "total" : 623806888500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 341500,
+        "total" : 90352120200
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 252,
+      "indexingSpeed" : {
+        "totalBytes" : 252,
+        "totalTime" : 1286300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK Android Studio default JDK",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 252,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1286300,
+          "total" : 1286300
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 93489090000,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 167323,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1807890932,
+      "indexingSpeed" : {
+        "totalBytes" : 1807890932,
+        "totalTime" : 93489090000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 53178930700,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 167883,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1812823957,
+      "indexingSpeed" : {
+        "totalBytes" : 1812823957,
+        "totalTime" : 53178930700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 34031730900,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 168104,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1817286138,
+      "indexingSpeed" : {
+        "totalBytes" : 1817286138,
+        "totalTime" : 34031730900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 33247063000,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 44920,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 305552235,
+      "indexingSpeed" : {
+        "totalBytes" : 305552235,
+        "totalTime" : 33247063000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 2017840600,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9741,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 102140819,
+      "indexingSpeed" : {
+        "totalBytes" : 102140819,
+        "totalTime" : 2017840600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 1533450300,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 29786,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 130451493,
+      "indexingSpeed" : {
+        "totalBytes" : 130451493,
+        "totalTime" : 1533450300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 1395561800,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9217,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 89749060,
+      "indexingSpeed" : {
+        "totalBytes" : 89749060,
+        "totalTime" : 1395561800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 1266176300,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 1449,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 56626127,
+      "indexingSpeed" : {
+        "totalBytes" : 56626127,
+        "totalTime" : 1266176300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "yaml.keys.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 1030113700,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 1374,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 2200774,
+      "indexingSpeed" : {
+        "totalBytes" : 2200774,
+        "totalTime" : 1030113700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 987627200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 29786,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 130451493,
+      "indexingSpeed" : {
+        "totalBytes" : 130451493,
+        "totalTime" : 987627200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 655215200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9217,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 89749060,
+      "indexingSpeed" : {
+        "totalBytes" : 89749060,
+        "totalTime" : 655215200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 575849300,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9232,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 90455046,
+      "indexingSpeed" : {
+        "totalBytes" : 90455046,
+        "totalTime" : 575849300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 565340200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9156,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 81782025,
+      "indexingSpeed" : {
+        "totalBytes" : 81782025,
+        "totalTime" : 565340200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 493419700,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 724,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1690140,
+      "indexingSpeed" : {
+        "totalBytes" : 1690140,
+        "totalTime" : 493419700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 446293700,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 29786,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 130451493,
+      "indexingSpeed" : {
+        "totalBytes" : 130451493,
+        "totalTime" : 446293700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 347839600,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 39491,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 422560377,
+      "indexingSpeed" : {
+        "totalBytes" : 422560377,
+        "totalTime" : 347839600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "editorconfig.index.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 285342400,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 77,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 21511,
+      "indexingSpeed" : {
+        "totalBytes" : 21511,
+        "totalTime" : 285342400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "SchemaTypeInheritance",
+      "partOfTotalIndexingTime" : {
+        "part" : 131237200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 646180,
+      "indexingSpeed" : {
+        "totalBytes" : 646180,
+        "totalTime" : 131237200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : {
+        "part" : 129558000,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 25,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 920427,
+      "indexingSpeed" : {
+        "totalBytes" : 920427,
+        "totalTime" : 129558000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlTagNames",
+      "partOfTotalIndexingTime" : {
+        "part" : 91891600,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 646180,
+      "indexingSpeed" : {
+        "totalBytes" : 646180,
+        "totalTime" : 91891600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 40646500,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 9214,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 89622881,
+      "indexingSpeed" : {
+        "totalBytes" : 89622881,
+        "totalTime" : 40646500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "java.source.module.name",
+      "partOfTotalIndexingTime" : {
+        "part" : 186200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 25,
+      "indexingSpeed" : {
+        "totalBytes" : 25,
+        "totalTime" : 186200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 182200,
+        "total" : 225940586300
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 25,
+      "indexingSpeed" : {
+        "totalBytes" : 25,
+        "totalTime" : 182200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'Happy Birthday'",
+      "numberOfScannedFiles" : 288140,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 167538,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 12394141900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 7769892600,
+      "timeIndexingWithoutContent" : 23148600
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "numberOfScannedFiles" : 30486,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 30151,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 3571297000,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 2258698100,
+      "timeIndexingWithoutContent" : 8029500
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 203,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 76332500,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 708600,
+      "timeIndexingWithoutContent" : 133900
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Happy Birthday'",
+      "totalNumberOfIndexedFiles" : 167538,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 148769783900,
+      "contentLoadingTime" : 21356615112,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "CHANGELOG.md",
+        "processingTime" : 607056600,
+        "indexingTime" : 575752900,
+        "contentLoadingTime" : 11977700
+      }, {
+        "fileName" : "CHANGELOG-2.md",
+        "processingTime" : 627467500,
+        "indexingTime" : 581578800,
+        "contentLoadingTime" : 3301000
+      }, {
+        "fileName" : "core.js",
+        "processingTime" : 688665100,
+        "indexingTime" : 623571100,
+        "contentLoadingTime" : 13978100
+      }, {
+        "fileName" : "microsoft.office.smartlookup.ssr_b191f4e37cf056035c0f7fdee974c856.js",
+        "processingTime" : 795682300,
+        "indexingTime" : 729790300,
+        "contentLoadingTime" : 19674600
+      }, {
+        "fileName" : "main.min.js",
+        "processingTime" : 706654800,
+        "indexingTime" : 611615300,
+        "contentLoadingTime" : 21755300
+      }, {
+        "fileName" : "bokeh.legacy.js",
+        "processingTime" : 736432700,
+        "indexingTime" : 638544400,
+        "contentLoadingTime" : 15196500
+      }, {
+        "fileName" : "parser-flow.js",
+        "processingTime" : 857002000,
+        "indexingTime" : 818173200,
+        "contentLoadingTime" : 4216400
+      }, {
+        "fileName" : "LICENSE.md",
+        "processingTime" : 1567766200,
+        "indexingTime" : 1521351200,
+        "contentLoadingTime" : 11736100
+      }, {
+        "fileName" : "options.md",
+        "processingTime" : 801730800,
+        "indexingTime" : 789528300,
+        "contentLoadingTime" : 4087300
+      }, {
+        "fileName" : "microsoft.office.smartlookup.ssr.js",
+        "processingTime" : 768273100,
+        "indexingTime" : 697840400,
+        "contentLoadingTime" : 12562300
+      } ]
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "totalNumberOfIndexedFiles" : 30151,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 7616434800,
+      "contentLoadingTime" : 1304901442,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@aa57533' (non-project)",
+      "totalNumberOfIndexedFiles" : 203,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 174739600,
+      "contentLoadingTime" : 16005539,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}
